@@ -1,0 +1,14 @@
+{
+  "name": "stylelint-3425",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "stylelint \"style.scss\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stylelint": "^9.3.0"
+  }
+}
